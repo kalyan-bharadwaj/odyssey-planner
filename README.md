@@ -308,7 +308,7 @@ OPENWEATHER_API_KEY=your-openweather-key
 
 ---
 
-## 📄 Pages & Routes
+## 📄 Pages & Route's
 
 | Route | Page | Auth | Description |
 |:---|:---|:---:|:---|
