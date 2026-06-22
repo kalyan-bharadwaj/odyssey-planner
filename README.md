@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/stars/kalyan-bharadwaj/odyssey-planner?style=for-the-badge&logo=github&color=yellow" />
 </p>
 
-<h3>✈️ A modern open-source alternative to Wanderlog, TripIt & Google Trips</h3>
+<h3>✈️ A modern open-source alternative to Wanderlog, TripIt & Google Trip's</h3>
 <p>Built for <strong>travellers, adventure seekers & full-stack developers</strong> — a feature-rich travel planning application that lets you discover destinations, build day-by-day itineraries, track budgets, and organise every detail of your journey in one beautiful interface.</p>
 
 <p align="center">
