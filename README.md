@@ -592,7 +592,7 @@ Licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-### ⭐ Star History
+### ⭐ Star History's
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kalyan-bharadwaj/odyssey-planner&type=Date)](https://star-history.com/#kalyan-bharadwaj/odyssey-planner&Date)
 
